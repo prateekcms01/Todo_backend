@@ -11,8 +11,7 @@ FEATURES:
 - Clean routing & controllers
 - Beginner-friendly and scalable
 
-git clone
-cd Backend
+git clone https://github.com/prateekcms01/Todo_backend.git
 npm install
 npm run dev
 
